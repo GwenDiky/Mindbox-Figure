@@ -1,2 +1,2 @@
 # Mindbox-Figure
-Tets
+numpy == 1.25.2
